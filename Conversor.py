@@ -35,5 +35,3 @@ txtPies.focus()
 raiz.bind('<Return>', calcular)
 
 raiz.mainloop()
-
-
